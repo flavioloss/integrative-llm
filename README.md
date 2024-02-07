@@ -1,2 +1,6 @@
-# integrative-llm
-Creating a Database to fine-tune an LLM to create integral health solutions
+# IntegrativeLLM
+### Persons of Interest
+* Andrew Hubberman
+* Eckhart Tolle
+* Matt Walker
+* Rhonda Patrick
